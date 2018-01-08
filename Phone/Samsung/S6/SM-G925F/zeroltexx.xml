@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="CurveOS/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="CurveOS" revision="curveos-14.1" />
-  <project name="CurveOS/android_device_samsung_zero-common" path="device/samsung/zero-common" remote="CurveOS" revision="curveos-14.1" />
-  <project name="CurveOS/android_hardware_samsung" path="hardware/samsung" remote="CurveOS" revision="curveos-14.1" />
-  <project name="CurveOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="CurveOS" revision="curveos-14.1" />
-  <project name="CurveOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="CurveOS" revision="curveos-14.1" />
-  <project name="CurveOS/android_hardware_samsung_slsi-cm_exynos7420" path="hardware/samsung_slsi-cm/exynos7420" remote="CurveOS" revision="curveos-14.1" />
-  <project name="CurveOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="CurveOS" revision="curveos-14.1" />
-  <project name="CurveOS/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="CurveOS" revision="curveos-14.1" />
-  <project name="CurveOS/android_external_stlport" path="external/stlport" remote="CurveOS" revision="curveos-14.1" />
-  <project name="CurveOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="CurveOS" revision="curveos-14.1" />
+  <project name="LineageOS/android_device_samsung_zeroltexx" path="device/samsung/zeroltexx" remote="LineageOS" revision="cm-14.1" />
+  <project name="LineageOS/android_device_samsung_zero-common" path="device/samsung/zero-common" remote="LineageOS" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="LineageOS" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="LineageOS" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="LineageOS" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos7420" path="hardware/samsung_slsi-cm/exynos7420" remote="LineageOS" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="LineageOS" revision="cm-14.1" />
+  <project name="LineageOS/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="LineageOS" revision="cm-14.1" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="LineageOS" revision="cm-14.1" />
+  <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="LineageOS" revision="cm-14.1" />
 </manifest>
