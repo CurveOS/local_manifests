@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="CurveOS/android_device_sony_g8141" path="device/sony/g8141" remote="github" />
-  <project name="CurveOS/android_device_yoshino" path="device/sony/yoshino" remote="github" />
-  <project name="CurveOS/android_device_qcom_common" path="device/qcom/common" remote="github" />
-  <project name="CurveOS/android_device_sony_common" path="device/sony/common" remote="github" />
-  <project name="CurveOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" />
-  <project name="CurveOS/android_kernel_sony_msm8998" path="kernel/sony/msm8998" remote="github" />
-</manifest>
