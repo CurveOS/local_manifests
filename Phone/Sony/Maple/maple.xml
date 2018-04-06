@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="CurveOS/android_kernel_sony_msm8998" path="kernel/sony/msm8998" remote="github" />
-  <project name="CurveOS/android_device_sony_common-treble" path="device/sony/common-treble" remote="github" />
   <project name="CurveOS/android_device_sony_maple" path="device/sony/maple" remote="github" />
-  <project name="CurveOS/android_device_yoshino" path="device/sony/yoshino" remote="github" />
+  <project name="cryptomilk/android_device_sony_common-treble" path="device/sony/common-treble" remote="github" />
+  <project name="cryptomilk/android_kernel_sony_msm8998" path="kernel/sony/msm8998" remote="github" />
+  <project name="cryptomilk/android_device_yoshino" path="device/sony/yoshino" remote="github" />
 </manifest>
